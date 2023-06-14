@@ -59,7 +59,3 @@ This script is provided under the MIT License. However, PHPMailer is licensed un
 ## :raising_hand: Contributions
 
 Contributions to improve this tool are always welcome! Feel free to fork the repository and send pull requests, or open issues if you find any problems or have suggestions.
-
-## :mailbox_with_mail: Contact
-
-If you have any questions or need further assistance, please [open an issue]([https://github.com/<your-username>/<your-repo>/issues/new](https://github.com/ozunaltun/Simple-SMTP-Tester-for-PHP/issues/new).
