@@ -62,4 +62,4 @@ Contributions to improve this tool are always welcome! Feel free to fork the rep
 
 ## :mailbox_with_mail: Contact
 
-If you have any questions or need further assistance, please [open an issue](https://github.com/<your-username>/<your-repo>/issues/new).
+If you have any questions or need further assistance, please [open an issue]([https://github.com/<your-username>/<your-repo>/issues/new](https://github.com/ozunaltun/Simple-SMTP-Tester-for-PHP/issues/new).
